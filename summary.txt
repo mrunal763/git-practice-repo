@@ -1,1 +1,1 @@
-This repo is for Git practice tasks.
+hi from update summary branch
